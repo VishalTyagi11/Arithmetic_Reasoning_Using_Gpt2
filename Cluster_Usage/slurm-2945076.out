@@ -1,0 +1,30 @@
+/var/spool/slurmd/job2945076/slurm_script: line 10: your: No such file or directory
+
+Lmod is automatically replacing "mpi/openmpi/5.0" with
+"toolkit/nvidia-hpc-sdk/23.9".
+
+
+Lmod is automatically replacing "compiler/intel/2023.1.0" with
+"toolkit/nvidia-hpc-sdk/23.9".
+
+
+============================= JOB FEEDBACK =============================
+
+Job ID: 2945076
+Cluster: hk
+User/Group: st_st186849/hk-project-p00201316
+Account: hk-project-p00201316
+State: COMPLETED (exit code 0)
+Partition: accelerated
+Nodes: 1
+Cores per node: 152
+Nodelist: hkn0721
+CPU Utilized: 01:31:43
+CPU Efficiency: 0.65% of 9-17:36:56 core-walltime
+Job Wall-clock time: 01:32:13
+Starttime: Wed Feb 19 16:14:06 2025
+Endtime: Wed Feb 19 17:46:19 2025
+Memory Utilized: 2.03 GB
+Memory Efficiency: 0.43% of 476.56 GB
+Energy Consumed: 4588132 Joule / 1274.48111111111 Watthours
+Average node power draw: 829.230435568408 Watt
